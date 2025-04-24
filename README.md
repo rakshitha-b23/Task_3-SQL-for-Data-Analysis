@@ -37,4 +37,9 @@ This project focuses on analyzing employee and performance datasets using MySQL.
 
 ## 📌 Purpose
 This project showcases practical SQL skills applied to HR analytics, covering data engineering, performance metrics, and business insights.
+---
+
+> 📊 **Tech Stack**: MySQL  
+> 📂 **Data Source**: Internal HR CSV files  
+> ✨ **Focus**: Schema design, SQL joins, aggregates, subqueries, performance optimization
 
