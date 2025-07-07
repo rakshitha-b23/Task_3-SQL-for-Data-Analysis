@@ -3,7 +3,7 @@
 This project focuses on analyzing employee and performance datasets using MySQL. It demonstrates the creation of schemas and tables, data loading, and performing key SQL operations for HR analytics.
 
 ## 🏗 Schema & Table Creation
-- Created a new schema `ElevateLabs`.
+- Created a new schema.
 - Defined and created three main tables:
   - `Employee` – Employee demographics and job details.
   - `PerformanceRating` – Job satisfaction and performance scores.
