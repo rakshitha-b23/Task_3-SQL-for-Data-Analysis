@@ -1,4 +1,4 @@
-# Task_3: SQL FOR ANALYSIS
+# SQL FOR ANALYSIS
 
 This project focuses on analyzing employee and performance datasets using MySQL. It demonstrates the creation of schemas and tables, data loading, and performing key SQL operations for HR analytics.
 
